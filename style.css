@@ -1,0 +1,62 @@
+h1{
+text-align: center;
+color: blue;
+}
+mark{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: red;
+    background-color: aqua;
+    border-radius: 30px;
+}
+.ushu{
+    background-color: yellow;
+    border-radius: 10px;
+    color: black;
+}
+.bot{
+    background-color: red;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 30px;
+    color: white;
+}
+.Abu{
+    background-color: black;
+    color: white;
+    width: 70px;
+    border-radius: 7px;
+    text-align: center;  
+}
+.bakr{
+    background-color: red;
+    color: white;
+    width: 70px;
+    border-radius: 7px;
+    text-align: center;  
+}
+.Abdu{
+    background-color: green;
+    color: white;
+    width: 70px;
+    border-radius: 7px;
+    text-align: center;  
+}
+.rax{
+    background-color: blueviolet;
+    color: white;
+    width: 70px;
+    border-radius: 7px; 
+    text-align: center;  
+}
+.monov{
+    background-color: rgb(80, 206, 175);
+    color: white;
+    width: 130px;
+    border-radius: 7px; 
+    text-align: center;  
+}
